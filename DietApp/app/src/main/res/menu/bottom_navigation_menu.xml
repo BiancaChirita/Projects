@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_plan"
+        android:icon="@drawable/ic_plan"
+        android:title="Plan">
+
+    </item>
+
+    <item
+        android:id="@+id/ic_list"
+        android:icon="@drawable/ic_list"
+        android:title="List">
+
+    </item>
+
+    <item
+        android:id="@+id/ic_person"
+        android:icon="@drawable/ic_person"
+        android:title="My Profile">
+
+    </item>
+
+</menu>
